@@ -1,3 +1,8 @@
+# About the app:
+
+A job-finding app that makes it easy to find technical jobs online.
+
+
 # Expo Router Example
 
 Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
